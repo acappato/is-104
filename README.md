@@ -27,3 +27,11 @@ console.log(is104(104)); //=> true
 console.log(is104(1.04e2)); //=> true
 console.log(is104('104')); //=> true
 ```
+
+## Running Tests
+
+Running and reviewing unit tests is a great way to get familiarized with a library and its API. You can install dependencies and run tests with the following command:
+
+```sh
+$ npm install && npm test
+```
